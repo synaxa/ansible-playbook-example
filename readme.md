@@ -1,0 +1,1 @@
+This repository includes an extremely simple version of a playbook which pings a host. It is a part of a tutorial series by Synaxa on ansible.
